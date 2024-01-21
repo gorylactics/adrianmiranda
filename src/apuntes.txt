@@ -1,0 +1,2 @@
+para evitar la advertencia del modulo de babel , correr la siguiente linea de codigo
+yarn add --dev @babel/plugin-proposal-private-property-in-object

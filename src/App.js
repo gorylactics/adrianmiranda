@@ -1,25 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import adrianLogo from './assets/img/logo_adrian_miranda_final_3.png'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className='contenedor_momentaneo'>
+        <h1>En construccion</h1>
+        <hr className='linea'/>
+        <img src={adrianLogo} alt='logo adrian miranda' className='logo_fondo'/>
+      </div>
+    </>
   );
 }
-
 export default App;

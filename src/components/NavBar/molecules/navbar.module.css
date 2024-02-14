@@ -1,0 +1,40 @@
+
+
+
+@media (max-width : 750px) {
+    /* .logo{
+        width: 100px;
+        border: solid 5px red;   
+    }     */
+
+    .contenedor{
+        background-color: pink;
+        padding: 20px;
+        position: fixed;
+        bottom: 0;
+    }
+    .navbar{
+        height: 10vh;
+        width: 100vw;
+        background-color: aqua;
+        position: fixed;
+        bottom: 13vh;
+        width: 10vh;
+        margin-left: 73vw;
+
+  
+    }
+}
+
+@media (min-width: 751px) {
+    /* .logo{
+        width: 200px;
+        border: solid 5px green;   
+    }     */
+    .navbar{
+        height: 10vh;
+        width: 100vw;
+        background-color: green;
+        
+    }
+}

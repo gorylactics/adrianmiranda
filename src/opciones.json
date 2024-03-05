@@ -1,0 +1,7 @@
+[
+    { "id": 1, "title": "Inicio", "link": "/" },
+    { "id": 2, "title": "Acerca de", "link": "/about" },
+    { "id": 3, "title": "Servicios", "link": "/services" },
+    { "id": 4, "title": "Contacto", "link": "/contact" },
+    {"id":5 , "title":"Acerca de mi" , "link":"/acerca"}
+  ]
